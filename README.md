@@ -28,7 +28,7 @@
 | --------------------------- | -------------------------------------------------------- |
 | João gomes                  | https://github.com/Gomes047/2024-IA22-2TRI               |
 | Josué                       | https://github.com/Sholipatv                             |
-| Kallebi                     | https://github.com/kallebi10                             |
+| Kallebi                     | https://github.com/Kallebi10/Kallebi-2024-ia22-2tri                            |
 | Leticia                     | https://github.com/leh-lima/2022-IA22                    |
 | Lucas                       | https://github.com/lucasmirandak/2024-IA22-2TRI          |
 | Marcos Domainski            | https://github.com/domainski2/IAMarcos2024-IA22-2TRI     |
